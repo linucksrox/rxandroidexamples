@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="kurtis.rx.rxexample.ExampleListActivity">
+    tools:context="kurtis.rx.androidexamples.ExampleListActivity">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/example_list"
